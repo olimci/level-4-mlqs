@@ -1,0 +1,9 @@
+/.envrc
+/.direnv/
+/src/.venv/
+/build/
+/result*
+/indent.log
+*.bak[0-9]
+*.log
+/.ruff_cache
