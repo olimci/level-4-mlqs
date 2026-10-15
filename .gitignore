@@ -1,6 +1,8 @@
 /.envrc
 /.direnv/
 /src/.venv/
+/projects/*/.venv/
+/projects/*/.ruff_cache
 /build/
 /result*
 /indent.log
